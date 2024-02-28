@@ -131,16 +131,13 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME12</persName>
+                  <persName>Erin Wiehn</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>February 26, 2005</date>
+                     <placeName>Newton, MA</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <occupation>Economics Major and Marketing Minor</occupation>
+                  <affiliation>Core Marketing</affiliation></person></listPerson><p>FUN FACT</p>
          </div>
          <div>
             <listPerson>
