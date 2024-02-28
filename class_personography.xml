@@ -54,21 +54,21 @@
             <p>FUN FACT</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10005" xml:space="default">
                <person>
                   <persName>Junbo Feng</persName>
                   <birth>
                      <date>July 12, 2005</date>
                      <placeName>Guangdong, China</placeName>
                   </birth>
-                  <occupation>Computer Science Engineering</occupation> <affiliation>E-sports</affiliation></person></listPerson><p>He is a music producer.</p>
+                  <occupation>Computer Science Engineering </occupation><occupation>Cycling</occupation> <affiliation>E-sports</affiliation></person></listPerson><p>He is a music producer.</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME6</persName>
+                  <persName>Jackson Green</persName>
                   <birth>
-                     <date>DATE</date>
+                     <date>March 9th, 2005</date>
                      <placeName>PLACE</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
