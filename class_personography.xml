@@ -155,11 +155,7 @@
                      <date>March 16</date>
                      <placeName>Charlottesville, VA</placeName>
                   </birth>
-                  <occupation>Computer Science and Art History</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>Her cat is rambunctuous and</p>
+                  <occupation>Computer Science and Art History</occupation> </person></listPerson><p>Her cat is rambunctuous and she has color synesthesia.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10016" xml:space="default">
