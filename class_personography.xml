@@ -15,9 +15,9 @@
    <text>
       <body>
                  <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10007" xml:space="default">
                <person>
-                  <persName>Abby Hausner </persName><birth><date>October 8th, 2004</date> <placeName>Ridgewood, NJ</placeName> </birth><occupation>Student</occupation>
+                  <persName>Abby Hausner </persName><birth><date>October 8th, 2004</date> <placeName>Ridgewood, NJ</placeName> </birth><occupation>Student</occupation><occupation/>
                   <affiliation>Club Basketball</affiliation></person></listPerson><p>I am going to Scotland in May.</p>
          </div>
          <div>
