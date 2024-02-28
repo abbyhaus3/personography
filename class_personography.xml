@@ -21,7 +21,7 @@
                   <affiliation>Club Basketball</affiliation></person></listPerson><p>I am going to Scotland in May.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10001" xml:space="default">
                <person>
                   <persName>Nikita Biyutskiy </persName><birth><date>October 3rd, 2003</date>
                      <placeName>Tashkent, Uzbekistan</placeName> </birth><occupation>Student</occupation><occupation>Computer Science and Engineering Major, American Politics Minor</occupation> <affiliation>Men's Swim and Dive</affiliation></person></listPerson><p>He wanted to play baseball but hurt his shoulder.</p>
@@ -29,9 +29,7 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME3</persName>
-                  <birth>
-                     <date>DATE</date>
+                  <persName>Zach Blumenfeld</persName> <birth><date>February 2nd,</date>
                      <placeName>PLACE</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
