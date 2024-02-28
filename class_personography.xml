@@ -27,7 +27,7 @@
                      <placeName>Tashkent, Uzbekistan</placeName> </birth><occupation>Student</occupation><occupation>Computer Science and Engineering Major, American Politics Minor</occupation> <affiliation>Men's Swim and Dive</affiliation></person></listPerson><p>He wanted to play baseball but hurt his shoulder.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10002" xml:space="default">
                <person>
                   <persName>Zach Blumenfeld</persName> <birth><date>February 2nd, 2005</date>
                      <placeName>Doylestown, PA</placeName> </birth><occupation>Computer Science and Engineering</occupation></person></listPerson><p>He is left handed.</p>
@@ -35,10 +35,9 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME4</persName>
+                  <persName>Miguel Camacho</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>December 13, 2002</date> <placeName>Bogota, Columbia</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
