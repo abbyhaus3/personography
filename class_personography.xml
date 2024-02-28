@@ -155,7 +155,7 @@
                <person>
                   <persName>Dr. J</persName><birth> <placeName>Englewood Cliffs, NJ</placeName>
                   </birth>
-                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">English and History Majors, Theater and Anthropology Minors</occupation> <affiliation>CSDH <affiliation>Renaissance Society of America</affiliation></affiliation></person></listPerson><p>Dr. J is ambidextrous, her favorite color is blue, and she hates lima beans and egg salad. </p><p/><p/>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">English and History Majors, Theater and Anthropology Minors</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="Academic" xml:space="default">CSDH <affiliation cert="high" evidence="internal" instant="unknown" type="Academic" xml:space="default">Renaissance Society of America </affiliation><affiliation cert="high" evidence="internal" instant="unknown" type="Social" xml:space="default">Delta Gamma</affiliation></affiliation></person></listPerson><p>Dr. J is ambidextrous, her favorite color is blue, and she hates lima beans and egg salad. </p><p/><p/>
          </div>
       </body>
    </text>
