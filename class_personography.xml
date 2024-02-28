@@ -138,8 +138,8 @@
                   <persName>Peyton Wynkoop</persName> <birth><date>August 21, 2005</date>
                      <placeName>Abu Dhabi, UAE</placeName>
                   </birth>
-                  <occupation>Undeclared</occupation>
-                  <affiliation>DSAC</affiliation></person></listPerson></div>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Undeclared</occupation>
+                  <affiliation cert="high" evidence="internal" instant="unknown" type="Academic" xml:space="default">DSAC</affiliation></person></listPerson></div>
                    <div>
             <listPerson cert="high" default="true" xml:id="humn10015" xml:space="default">
                <person>
@@ -148,14 +148,14 @@
                      <date>March 16</date>
                      <placeName>Charlottesville, VA</placeName>
                   </birth>
-                  <occupation>Computer Science and Art History</occupation> </person></listPerson><p>Her cat is rambunctuous and she has color synesthesia.</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Computer Science and Art History</occupation> </person></listPerson><p>Her cat is rambunctuous and she has color synesthesia.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10016" xml:space="default">
                <person>
                   <persName>Dr. J</persName><birth> <placeName>Englewood Cliffs, NJ</placeName>
                   </birth>
-                  <occupation>English and History Majors, Theater and Anthropology Minors</occupation> <affiliation>CSDH <affiliation>Renaissance Society of America</affiliation></affiliation></person></listPerson><p>Dr. J is ambidextrous, her favorite color is blue, and she hates lima beans and egg salad. </p><p/><p/>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">English and History Majors, Theater and Anthropology Minors</occupation> <affiliation>CSDH <affiliation>Renaissance Society of America</affiliation></affiliation></person></listPerson><p>Dr. J is ambidextrous, her favorite color is blue, and she hates lima beans and egg salad. </p><p/><p/>
          </div>
       </body>
    </text>
