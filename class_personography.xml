@@ -58,7 +58,7 @@
                      <date>July 12, 2005</date>
                      <placeName>Guangdong, China</placeName>
                   </birth>
-                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Computer Science Engineering </occupation><occupation>Cycling</occupation> <occupation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">E-sports</occupation></person></listPerson><p>He is a music producer.</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Computer Science Engineering </occupation><occupation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">Cycling</occupation> <occupation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">E-sports</occupation></person></listPerson><p>He is a music producer.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10006" xml:space="default">
@@ -66,7 +66,7 @@
                   <persName>Jackson Green</persName>
                   <birth>
                      <date>March 9th, 2005</date>
-                     <placeName>Washington DC</placeName>  </birth><occupation>Undecided</occupation><affiliation>  Crew</affiliation></person></listPerson><p>He has 2 dogs and a cat.</p>
+                     <placeName>Washington DC</placeName>  </birth><occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Undecided</occupation><affiliation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">  Crew</affiliation></person></listPerson><p>He has 2 dogs and a cat.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10008" xml:space="default">
@@ -76,14 +76,14 @@
                      <date>June 1, 2004</date>
                      <placeName>Indio, CA</placeName>
                   </birth>
-                  <occupation>Computer Science </occupation><occupation>Volleyball</occupation><affiliation> Sigma Alpha Epsilon</affiliation></person></listPerson><p>He has 15 cats.</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Computer Science </occupation><occupation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">Volleyball</occupation><affiliation cert="high" evidence="internal" instant="unknown" type="Social" xml:space="default"> Sigma Alpha Epsilon</affiliation></person></listPerson><p>He has 15 cats.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10009" xml:space="default">
                <person>
                   <persName>Joshua Lee</persName> <birth><date>February 20, 2004</date> <placeName>Englewood, NJ</placeName>
                   </birth>
-                  <occupation>Computer Science</occupation><affiliation> Korean Cultural Association</affiliation></person></listPerson></div>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Computer Science</occupation><affiliation> Korean Cultural Association</affiliation></person></listPerson></div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10010" xml:space="default">
                <person>
