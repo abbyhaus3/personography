@@ -151,13 +151,9 @@
          <div>
             <listPerson>
                <person>
-                  <persName>Dr. J</persName><birth> <placeName>Engle</placeName>
+                  <persName>Dr. J</persName><birth> <placeName>Englewood Cliffs, NJ</placeName>
                   </birth>
-                  <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
+                  <occupation>English and History Majors, Theater and Anthropology Minors</occupation> <affiliation>CSDH <affiliation/></affiliation></person></listPerson><p>FUN FACT</p>
          </div>
       </body>
    </text>
