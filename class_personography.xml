@@ -14,11 +14,11 @@
 <xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#"/></xenoData></teiHeader>
    <text>
       <body>
-         <div>
-            <listPerson cert="high" default="true" xml:id="humn10007" xml:space="default">
+                 <div>
+            <listPerson>
                <person>
-                  <persName>Abby Hausner </persName><birth><date>October 8th, 2004</date>
-                     <placeName>Ridgewood, NJ</placeName> Student, Political Science and Economics major, Club Basketball Team</birth></person></listPerson><p>I am going to Scotland in May.</p>
+                  <persName>Abby Hausner </persName><birth><date>October 8th, 2004</date> <placeName>Ridgewood, NJ</placeName> </birth><occupation>Student</occupation>
+                  <affiliation>Club Basketball</affiliation></person></listPerson><p>I am going to Scotland in May.</p>
          </div>
          <div>
             <listPerson>
