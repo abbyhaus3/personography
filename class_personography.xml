@@ -24,7 +24,7 @@
             <listPerson cert="high" default="true" xml:id="humn10001" xml:space="default">
                <person>
                   <persName>Nikita Biyutskiy </persName><birth><date>October 3rd, 2003</date>
-                     <placeName>Tashkent, Uzbekistan</placeName> </birth><occupation>Student </occupation><occupation>Computer Science and Engineering Major, American Politics Minor</occupation> <affiliation>Men's Swim and Dive</affiliation></person></listPerson><p>He wanted to play baseball but hurt his shoulder.</p>
+                     <placeName>Tashkent, Uzbekistan</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="Profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="Major/Minor" xml:space="default">Computer Science and Engineering Major, American Politics Minor</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">Men's Swim and Dive</affiliation></person></listPerson><p>He wanted to play baseball but hurt his shoulder.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10002" xml:space="default">
