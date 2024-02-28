@@ -85,23 +85,17 @@
                   <affiliation>GROUP Sigma Alpha Epsilon</affiliation></person></listPerson><p>He has 15 cats.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10009" xml:space="default">
                <person>
                   <persName>Joshua Lee</persName> <birth><date>February 20, 2004</date> <placeName>Englewood, NJ</placeName>
                   </birth>
-                  <occupation>Computer ScienceWHAT OCCUPIES MY TIME </occupation><occupation>ACM</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>FUN FACT</p>
-         </div>
+                  <occupation>Computer Science</occupation><affiliation> Korean Cultural Association</affiliation></person></listPerson></div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME9</persName>
+                  <persName>Leo McMenimen</persName>
                   <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                     <date>Nov</date> <placeName>PLACE</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
