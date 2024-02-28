@@ -18,19 +18,19 @@
             <listPerson cert="high" default="true" xml:id="humn10007" xml:space="default">
                <person>
                   <persName>Abby Hausner </persName><birth><date>October 8th, 2004</date> <placeName>Ridgewood, NJ</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="Profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Political Science and Economics Major</occupation>
-                  <affiliation>Club Basketball</affiliation></person></listPerson><p>I am going to Scotland in May.</p>
+                  <affiliation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">Club Basketball</affiliation></person></listPerson><p>I am going to Scotland in May.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10001" xml:space="default">
                <person>
                   <persName>Nikita Biyutskiy </persName><birth><date>October 3rd, 2003</date>
-                     <placeName>Tashkent, Uzbekistan</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="Profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" type="Major/Minor" xml:space="default">Computer Science and Engineering Major, American Politics Minor</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">Men's Swim and Dive</affiliation></person></listPerson><p>He wanted to play baseball but hurt his shoulder.</p>
+                     <placeName>Tashkent, Uzbekistan</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="Profession" xml:space="default">Student </occupation><occupation cert="high" evidence="internal" instant="unknown" xml:space="default" type="Discipline">Computer Science and Engineering Major, American Politics Minor</occupation> <affiliation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">Men's Swim and Dive</affiliation></person></listPerson><p>He wanted to play baseball but hurt his shoulder.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10002" xml:space="default">
                <person>
                   <persName>Zach Blumenfeld</persName> <birth><date>February 2nd, 2005</date>
-                     <placeName>Doylestown, PA</placeName> </birth><occupation>Computer Science and Engineering</occupation></person></listPerson><p>He is left handed.</p>
+                     <placeName>Doylestown, PA</placeName> </birth><occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Computer Science and Engineering</occupation></person></listPerson><p>He is left handed.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10003" xml:space="default">
