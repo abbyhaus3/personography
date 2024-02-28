@@ -101,7 +101,7 @@
                   <affiliation>Active Minds</affiliation></person></listPerson><p>He has a metal rod screwed into his right arm.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10011" xml:space="default">
                <person>
                   <persName>Alexander Peters</persName>
                   <birth>
@@ -115,9 +115,9 @@
             <p>FUN FACT</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10012" xml:space="default">
                <person>
-                  <persName>NAME11</persName>
+                  <persName>Farhaj Shahid</persName>
                   <birth>
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
