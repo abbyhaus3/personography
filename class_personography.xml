@@ -74,7 +74,7 @@
                   <occupation>Undecided</occupation><affiliation> Crew</affiliation></person></listPerson><p>He has 2 dogs and a cat.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10008" xml:space="default">
                <person>
                   <persName>Dylan Lange</persName>
                   <birth>
@@ -87,10 +87,7 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME8</persName>
-                  <birth>
-                     <date>DATE</date>
-                     <placeName>PLACE</placeName>
+                  <persName>Joshua Lee</persName> <birth><date>February 20, 2004</date> <placeName>Englewood,</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
                   <affiliation>GROUP I'M A PART OF</affiliation>
