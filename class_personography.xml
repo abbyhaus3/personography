@@ -79,8 +79,7 @@
                      <date>June 1, 2004</date>
                      <placeName>Indio, CA</placeName>
                   </birth>
-                  <occupation>Computer Science </occupation><occupation>Volleyball</occupation>
-                  <affiliation>GROUP Sigma Alpha Epsilon</affiliation></person></listPerson><p>He has 15 cats.</p>
+                  <occupation>Computer Science </occupation><occupation>Volleyball</occupation><affiliation> Sigma Alpha Epsilon</affiliation></person></listPerson><p>He has 15 cats.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10009" xml:space="default">
