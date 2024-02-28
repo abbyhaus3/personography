@@ -48,10 +48,7 @@
                   <birth>
                      <date>October 31, 2003</date> <placeName>Buffalo, NY</placeName>
                   </birth>
-                  <occupation cert="high" evidence="internal" instant="unknown" type="Academic" xml:space="default">Computer Science and Engineering Major, Math Minor</occupation> <affiliation>GROUP I'M A PART OF</affiliation>
-               </person>
-            </listPerson>
-            <p>He has a twin brother</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Academic" xml:space="default">Computer Science and Engineering Major, Math Minor </occupation><occupation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">Club Baseball</occupation> <affiliation>ACM</affiliation></person></listPerson><p>He has a twin brother</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10005" xml:space="default">
