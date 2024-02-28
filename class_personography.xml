@@ -149,11 +149,11 @@
                   <affiliation>DSAC</affiliation></person></listPerson><p/>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10016" xml:space="default">
                <person>
                   <persName>Dr. J</persName><birth> <placeName>Englewood Cliffs, NJ</placeName>
                   </birth>
-                  <occupation>English and History Majors, Theater and Anthropology Minors</occupation> <affiliation>CSDH <affiliation/></affiliation></person></listPerson><p>FUN FACT</p>
+                  <occupation>English and History Majors, Theater and Anthropology Minors</occupation> <affiliation>CSDH <affiliation>Renaissance Society of America</affiliation></affiliation></person></listPerson><p>Dr. J is ambidextrous, her favorite color is blue, and she hates lima beans and egg salad. </p>
          </div>
       </body>
    </text>
