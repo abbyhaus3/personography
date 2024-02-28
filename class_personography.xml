@@ -129,7 +129,7 @@
             <p>FUN FACT</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10013" xml:space="default">
                <person>
                   <persName>Erin Wiehn</persName>
                   <birth>
@@ -137,14 +137,12 @@
                      <placeName>Newton, MA</placeName>
                   </birth>
                   <occupation>Economics Major and Marketing Minor</occupation>
-                  <affiliation>Core Marketing</affiliation></person></listPerson><p>FUN FACT</p>
+<occupation>ASC</occupation>                  <affiliation>Core Marketing</affiliation></person></listPerson><p>She is left handed.</p>
          </div>
          <div>
             <listPerson>
                <person>
-                  <persName>NAME13</persName>
-                  <birth>
-                     <date>DATE</date>
+                  <persName>PeytonWy</persName> W<birth><date>DATE</date>
                      <placeName>PLACE</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
