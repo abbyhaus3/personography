@@ -37,7 +37,7 @@
                <person>
                   <persName>Miguel Camacho</persName>
                   <birth>
-                     <date>December 13, 2002</date> <placeName>Bogota, Columbia</placeName> Creative Writing, Comparative and Digital Humanities </birth><affiliation cert="high" evidence="internal" instant="unknown" type="Academic Affiliation" xml:space="default">Arts Merit Scholar</affiliation></person></listPerson><listRelation><relation name="#dkj004"><desc/></relation></listRelation><p>He was a competitive fencer.</p>
+                     <date>December 13, 2002</date> <placeName>Bogota, Columbia</placeName> Creative Writing, Comparative and Digital Humanities </birth><affiliation cert="high" evidence="internal" instant="unknown" xml:space="default" type="Academic">Arts Merit Scholar</affiliation></person></listPerson><listRelation><relation name="#dkj004"><desc/></relation></listRelation><p>He was a competitive fencer.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10004" xml:space="default">
