@@ -33,16 +33,16 @@
                      <placeName>Doylestown, PA</placeName> </birth><occupation>Computer Science and Engineering</occupation></person></listPerson><p>He is left handed.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10003" xml:space="default">
                <person>
                   <persName>Miguel Camacho</persName>
                   <birth>
                      <date>December 13, 2002</date> <placeName>Bogota, Columbia</placeName> Creative Writing, Comparative and Digital Humanities </birth><affiliation>Arts Merit Scholar</affiliation></person></listPerson><listRelation><relation name="#dkj004"><desc/></relation></listRelation><p>He was a competitive fencer.</p>
          </div>
          <div>
-            <listPerson>
+            <listPerson cert="high" default="true" xml:id="humn10004" xml:space="default">
                <person>
-                  <persName>NAME4</persName>
+                  <persName>Nathan Casarsa</persName>
                   <birth>
                      <date>DATE</date>
                      <placeName>PLACE</placeName>
@@ -56,9 +56,9 @@
          <div>
             <listPerson>
                <person>
-                  <persName>NAME5</persName>
+                  <persName>Junbo Feng</persName>
                   <birth>
-                     <date>DATE</date>
+                     <date>July 12, 2005</date>
                      <placeName>PLACE</placeName>
                   </birth>
                   <occupation>WHAT DO I DO/WHAT IS MY MAJOR/WHAT OCCUPIES MY TIME</occupation>
