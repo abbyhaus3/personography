@@ -74,7 +74,7 @@
                      <date>June 1, 2004</date>
                      <placeName>Indio, CA</placeName>
                   </birth>
-                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Computer Science </occupation><occupation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">Volleyball</occupation><affiliation cert="high" evidence="internal" instant="unknown" type="Social" xml:space="default"> Sigma Alpha Epsilon</affiliation></person></listPerson><p>He has 15 cats.</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Computer Science </occupation><occupation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">Volleyball </occupation><affiliation cert="high" evidence="internal" instant="unknown" type="Social" xml:space="default">Tea Club</affiliation><affiliation cert="high" evidence="internal" instant="unknown" type="Social" xml:space="default"> Sigma Alpha Epsilon</affiliation></person></listPerson><p>He has 15 cats.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10009" xml:space="default">
