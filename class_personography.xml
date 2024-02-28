@@ -69,9 +69,7 @@
                   <persName>Jackson Green</persName>
                   <birth>
                      <date>March 9th, 2005</date>
-                     <placeName>Washington DC</placeName>
-                  </birth>
-                  <occupation>Undecided</occupation><affiliation> Crew</affiliation></person></listPerson><p>He has 2 dogs and a cat.</p>
+                     <placeName>Washington DC</placeName>  </birth><occupation>Undecided</occupation><affiliation>  Crew</affiliation></person></listPerson><p>He has 2 dogs and a cat.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10008" xml:space="default">
@@ -97,8 +95,7 @@
                   <birth>
                      <date>November 24, 2003</date> <placeName>Sayerville, NJ</placeName>
                   </birth>
-                  <occupation>ACM</occupation>
-                  <affiliation>Active Minds</affiliation></person></listPerson><p>He has a metal rod screwed into his right arm.</p>
+                  <occupation>ACM</occupation>  <affiliation>Active Minds</affiliation></person></listPerson><p>He has a metal rod screwed into his right arm.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10011" xml:space="default">
