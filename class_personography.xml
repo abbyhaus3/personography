@@ -24,8 +24,7 @@
             <listPerson>
                <person>
                   <persName>Nikita Biyutskiy </persName><birth><date>October 3rd, 2003</date>
-                     <placeName>Tashkent, Uzbekistan</placeName> </birth><occupation>Student</occupation>
-                  <affiliation>GROUP I'M A PART OF</affiliation>
+                     <placeName>Tashkent, Uzbekistan</placeName> </birth><occupation>Student</occupation><occupation>Computer Science and Engine</occupation> C<affiliation>GROUP I'M A PART OF</affiliation>
                </person>
             </listPerson>
             <p>FUN FACT</p>
