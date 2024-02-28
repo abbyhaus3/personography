@@ -61,7 +61,7 @@
                      <date>July 12, 2005</date>
                      <placeName>Guangdong, China</placeName>
                   </birth>
-                  <occupation>Computer Science Engineering </occupation><occupation>Cycling</occupation> <affiliation>E-sports</affiliation></person></listPerson><p>He is a music producer.</p>
+                  <occupation cert="high" evidence="internal" instant="unknown" type="Discipline" xml:space="default">Computer Science Engineering </occupation><occupation>Cycling</occupation> <occupation cert="high" evidence="internal" instant="unknown" type="Sport" xml:space="default">E-sports</occupation></person></listPerson><p>He is a music producer.</p>
          </div>
          <div>
             <listPerson cert="high" default="true" xml:id="humn10006" xml:space="default">
