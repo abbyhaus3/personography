@@ -585,7 +585,7 @@
                <l>You got all my love</l>
                <l>Write me a list of how it is, of how it was, of how it has to be</l>
                <l><span cert="high" evaluate="all" type="metaphor" xml:space="default">You burrowed in under my skin, what I'd give to have you out for me</span></l>
-               <l>I still recall how the leather in your car feels</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">I still recall how the leather in your car feels</eventName></l>
                <l>And at the end of it all, I just hope that your scars healed</l>
                <l><eventName>We once sang</eventName></l>
                <l>Retrograde, we'd shake the frame of your car</l>
@@ -601,7 +601,7 @@
                <l>Well, I leaned in for a kiss thirty feet from where your parents slept </l>
                <l>And I look so confident, babe, I swear, I was scared to death</l>
                <l>My hands gripped the wheel, I smiled stupid the whole way home</l>
-               <l>And those five words stilln my head, you said, "I'll never you let go"</l>
+               <l>And those five words stilln my head, you said,<said> "I'll never you let go"</said></l>
                <l>Oh, I sing</l>
                <l>Retrograde, we'd shake the frame of your car</l>
                <l>Now I know your name, but not who you are</l>
