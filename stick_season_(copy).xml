@@ -573,11 +573,10 @@
                <l>How have things been? Well, love, now that you mention it</l>
                <l><eventName>My folks still talk,</eventName> they speak in these two-words sentences</l>
                <l><eventName>I'm sayin' too much</eventName> but you know how it gets out here</l>
-               <l>No winter coat could keep out all the cold of your atmosphere </l><l>We once sang</l>
-               <l>Retrograde, we'd shake the frame of your car</l>
+               <l>No winter coat could keep out all the cold of your atmosphere </l><l>We once sang Retrograde, we'd shake the frame of your car</l>
                <l>Now I know your name, but not who you are</l>
                <l>It's all okay</l>
-               <l>There ain't a drop of bad blood, it's all my love</l>
+               <l><span cert="high" evaluate="all" type="love" xml:space="default">There ain't a drop of bad blood, it's all my love</span></l>
                <l>You got all my love while I'm still out here</l>
                <l>With the pills and the dogs, if you need me, dear</l>
                <l>I'm the same as I was, it's all okay</l>
