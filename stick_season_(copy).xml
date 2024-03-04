@@ -571,9 +571,9 @@
             <lg>
                <l>Okay</l>
                <l>How have things been? Well, love, now that you mention it</l>
-               <l>My folks still talk, they speak in these two-words sentences</l>
-               <l>I'm sayin' too much but you know how it gets out here</l>
-               <l>No winter coat could keep out all the cold of your atmosphere We once sang</l>
+               <l><eventName>My folks still talk,</eventName> they speak in these two-words sentences</l>
+               <l><eventName>I'm sayin' too much</eventName> but you know how it gets out here</l>
+               <l>No winter coat could keep out all the cold of your atmosphere </l><l>We once sang</l>
                <l>Retrograde, we'd shake the frame of your car</l>
                <l>Now I know your name, but not who you are</l>
                <l>It's all okay</l>
