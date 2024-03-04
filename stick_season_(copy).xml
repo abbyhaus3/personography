@@ -114,7 +114,6 @@
 	"id": "undefined?place_annotation_20240303222239629",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T03:22:39.629Z",
-	"dcterms:modified": "2024-03-04T03:22:39.629Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/abbyhaus3",
 		"@type": [
@@ -140,7 +139,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?place_annotation_20240303222239629#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/lg/l[21]/placeName"
+			"rdf:value": "TEI/text/body/div/lg/l[22]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -192,7 +191,6 @@
 	"id": "undefined?rs_annotation_20240303223111009",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T03:31:11.009Z",
-	"dcterms:modified": "2024-03-04T03:31:11.009Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/abbyhaus3",
 		"@type": [
@@ -218,7 +216,7 @@
 		"oa:hasSelector": {
 			"@id": "undefined?rs_annotation_20240303223111009#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/lg/l[24]/rs"
+			"rdf:value": "TEI/text/body/div/lg/l[25]/rs"
 		}
 	},
 	"oa:hasBody": {
@@ -267,10 +265,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240303223137653",
+	"id": "undefined?rs_annotation_20240303223111009",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-04T03:31:37.653Z",
-	"dcterms:modified": "2024-03-04T03:31:11.009Z",
+	"dcterms:created": "2024-03-04T03:31:11.009Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/abbyhaus3",
 		"@type": [
@@ -281,7 +278,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240303223137653#Target",
+		"@id": "undefined?rs_annotation_20240303223111009#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -294,7 +291,7 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240303223137653#Selector",
+			"@id": "undefined?rs_annotation_20240303223111009#Selector",
 			"@type": "oa:XPathSelector",
 			"rdf:value": "TEI/text/body/div/lg/l[13]/rs"
 		}
@@ -345,10 +342,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?place_annotation_20240303223231988",
+	"id": "undefined?place_annotation_20240303222239629",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-04T03:32:31.988Z",
-	"dcterms:modified": "2024-03-04T03:22:39.629Z",
+	"dcterms:created": "2024-03-04T03:22:39.629Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/abbyhaus3",
 		"@type": [
@@ -359,7 +355,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?place_annotation_20240303223231988#Target",
+		"@id": "undefined?place_annotation_20240303222239629#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -372,9 +368,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?place_annotation_20240303223231988#Selector",
+			"@id": "undefined?place_annotation_20240303222239629#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/lg/l[33]/placeName"
+			"rdf:value": "TEI/text/body/div/lg/l[34]/placeName"
 		}
 	},
 	"oa:hasBody": {
@@ -423,10 +419,9 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "undefined?rs_annotation_20240303223305055",
+	"id": "undefined?rs_annotation_20240303223111009",
 	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-04T03:33:05.055Z",
-	"dcterms:modified": "2024-03-04T03:31:11.009Z",
+	"dcterms:created": "2024-03-04T03:31:11.009Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/abbyhaus3",
 		"@type": [
@@ -437,7 +432,7 @@
 	},
 	"oa:motivatedBy": "oa:identifying",
 	"oa:hasTarget": {
-		"@id": "undefined?rs_annotation_20240303223305055#Target",
+		"@id": "undefined?rs_annotation_20240303223111009#Target",
 		"@type": "oa:SpecificResource",
 		"oa:hasSource": {
 			"@type": "dctypes:Text",
@@ -450,9 +445,9 @@
 			"schema:softwareVersion": "3.4.0"
 		},
 		"oa:hasSelector": {
-			"@id": "undefined?rs_annotation_20240303223305055#Selector",
+			"@id": "undefined?rs_annotation_20240303223111009#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/lg/l[36]/rs"
+			"rdf:value": "TEI/text/body/div/lg/l[37]/rs"
 		}
 	},
 	"oa:hasBody": {
@@ -547,6 +542,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?note_annotation_20240304092128649",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T14:21:28.649Z",
+	"dcterms:modified": "2024-03-04T14:21:28.649Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "undefined?note_annotation_20240304092128649#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?note_annotation_20240304092128649#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg/l[21]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteScholarly",
+		"dc:format": "text/plain",
+		"rdf:value": "Talking about memories and how he misses her"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -573,19 +646,19 @@
                <l>And I'm split in half, but that'll have to do</l>
                <l>So I thought that if I piled something good on all my bad</l>
                <l>That I could cancel out the <ref cert="high" evaluate="all" type="emotion" xml:space="default">darkness</ref> I inherited from dad</l>
-               <l>No, I am no longer <ref cert="high" evaluate="all" type="emotion" xml:space="default">funny</ref>, '<eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">cause I miss the way you laugh</eventName> You once called me
-                  forever, now you still can't call me back</l>
+               <l>No, I am no longer <ref cert="high" evaluate="all" type="emotion" xml:space="default">funny</ref>, '<eventName> cause I miss the way you laugh</eventName> </l><l>You once called me
+                  forever, now you still can't call me back<note type="scholarNote">Talking about memories and how he misses her</note></l>
                <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551">Vermont</placeName>, but it's the season of the sticks</l>
                <l>And I saw your <persName>mom</persName>, she forgot that I existed</l>
                <l>And it's half <ref cert="high" evaluate="all" type="emotion" xml:space="default">my fault</ref>, but I just like to play the victim</l>
                <l>I'll drink alcohol 'til my friends come home for <rs key="Christmas" ref="http://www.wikidata.org/entity/Q19809">Christmas</rs></l>
-               <l>And I'll dream each night of some version of you</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">And I'll dream each night of some version of you</eventName></l>
                <l>That I might not have, but I did not lose</l>
                <l>Now you're tire tracks and one pair of shoes</l>
                <l>And I'm split in half, but that'll have to do</l>
                <l>Oh, that'll have to do</l>
                <l>My other half was you</l>
-               <l>I hope this pain's just passin' through</l>
+               <l><span cert="high" evaluate="all" type="emotion" xml:space="default">I hope this pain's just passin' through</span></l>
                <l>But I doubt it</l>
                <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551">Vermont</placeName>, but it's the season of the sticks</l>
                <l>And I saw your <persName>mom</persName>, she forgot that I existed</l>
@@ -601,7 +674,7 @@
          <div>
             <head>"Northern Attitude" (Stick Season)</head>
             <lg>
-               <l>Breathin' in, breathin' out</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Breathin' in, breathin' out</eventName></l>
                <l>How <persPronouns cert="high" evidence="conjecture" type="you" xml:space="default">you</persPronouns> been? You settled down?</l>
                <l>You feelin' right? You feelin' proud?</l>
                <l>How are your kids? Where are they now?</l>
