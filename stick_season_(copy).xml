@@ -1,0 +1,738 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="http://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?><?xml-stylesheet type="text/css" href="null"?><TEI xmlns="http://www.tei-c.org/ns/1.0" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <teiHeader><fileDesc><titleStmt><title>Title</title></titleStmt><publicationStmt><p>Publication Information</p></publicationStmt><sourceDesc><p>Information about the source</p></sourceDesc></fileDesc><xenoData><rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#" xmlns:as="http://www.w3.org/ns/activitystreams#" xmlns:cwrc="http://sparql.cwrc.ca/ontologies/cwrc#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:foaf="http://xmlns.com/foaf/0.1/" xmlns:geo="http://www.geonames.org/ontology#" xmlns:oa="http://www.w3.org/ns/oa#" xmlns:schema="http://schema.org/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" xmlns:fabio="https://purl.org/spar/fabio#" xmlns:bf="http://www.openlinksw.com/schemas/bif#" xmlns:cito="https://sparontologies.github.io/cito/current/cito.html#" xmlns:org="http://www.w3.org/ns/org#">
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?place_annotation_20240303215720930",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T02:57:20.930Z",
+	"dcterms:modified": "2024-03-04T02:57:20.930Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?place_annotation_20240303215720930#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?place_annotation_20240303215720930#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg/l[10]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q16551",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	},
+	"cwrc:hasCertainty": "cwrc:high",
+	"cwrc:hasPrecision": "cwrc:highCertainty"
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?place_annotation_20240303222239629",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T03:22:39.629Z",
+	"dcterms:modified": "2024-03-04T03:22:39.629Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?place_annotation_20240303222239629#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?place_annotation_20240303222239629#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg/l[21]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q16551",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?rs_annotation_20240303223111009",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T03:31:11.009Z",
+	"dcterms:modified": "2024-03-04T03:31:11.009Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?rs_annotation_20240303223111009#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?rs_annotation_20240303223111009#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg/l[24]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q19809",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?rs_annotation_20240303223137653",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T03:31:37.653Z",
+	"dcterms:modified": "2024-03-04T03:31:11.009Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?rs_annotation_20240303223137653#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?rs_annotation_20240303223137653#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg/l[13]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q19809",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?place_annotation_20240303223231988",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T03:32:31.988Z",
+	"dcterms:modified": "2024-03-04T03:22:39.629Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?place_annotation_20240303223231988#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?place_annotation_20240303223231988#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg/l[33]/placeName"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:RealPlace",
+		"@id": "http://www.wikidata.org/entity/Q16551",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?rs_annotation_20240303223305055",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T03:33:05.055Z",
+	"dcterms:modified": "2024-03-04T03:31:11.009Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?rs_annotation_20240303223305055#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?rs_annotation_20240303223305055#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg/l[36]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q19809",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
+      </rdf:RDF></xenoData></teiHeader>
+      
+   
+   <text>
+      <body>
+         <div>
+            <head>"Stick Season" (Stick Season)</head>
+            <lg>
+               <l>As you promised me that I was more than all the miles combined</l>
+               <l>You must have had yourself a change of heart like</l>
+               <l>Halfway through the drive</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Because your voice trailed off</eventName> exactly as you passed my exit sign</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Kept on drivin' straight</eventName> and left our future to the right</l>
+               <l>Now I am stuck between my <ref cert="high" evaluate="all" type="emotion" xml:space="default">anger</ref> and the <ref cert="high" evaluate="all" type="emotion" xml:space="default">blame</ref> that I can't face</l>
+               <l>And memories are somethin' even smoking weed does not replace</l>
+               <l>And I am <ref cert="high" evaluate="all" type="emotion" xml:space="default">terrified</ref> of weather 'cause I see you when it rains</l>
+               <l>Doc told me to travel, but there's COVID on the planes</l>
+               <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551" cert="high">Vermont<precision match="@ref" precision="high"/></placeName>, but it's the season of the sticks</l>
+               <l>And I saw your <persName>mom</persName>, she forgot that I existed</l>
+               <l>And it's half <ref cert="high" evaluate="all" type="emotion" xml:space="default">my fault</ref>, but I just like to play the victim</l>
+               <l>I'll drink alcohol 'til my friends come home for <rs key="Christmas" ref="http://www.wikidata.org/entity/Q19809">Christmas</rs></l><l>And I'll dream each night of some version of you</l>
+               <l>That I might not have, but I did not lose</l>
+               <l>Now you're tire tracks and one pair of shoes</l>
+               <l>And I'm split in half, but that'll have to do</l>
+               <l>So I thought that if I piled something good on all my bad</l>
+               <l>That I could cancel out the <ref cert="high" evaluate="all" type="emotion" xml:space="default">darkness</ref> I inherited from dad</l>
+               <l>No, I am no longer <ref cert="high" evaluate="all" type="emotion" xml:space="default">funny</ref>, 'cause I miss the way you laugh You once called me
+                  forever, now you still can't call me back</l>
+               <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551">Vermont</placeName>, but it's the season of the sticks</l>
+               <l>And I saw your <persName>mom</persName>, she forgot that I existed</l>
+               <l>And it's half <ref cert="high" evaluate="all" type="emotion" xml:space="default">my fault</ref>, but I just like to play the victim</l>
+               <l>I'll drink alcohol 'til my friends come home for <rs key="Christmas" ref="http://www.wikidata.org/entity/Q19809">Christmas</rs></l>
+               <l>And I'll dream each night of some version of you</l>
+               <l>That I might not have, but I did not lose</l>
+               <l>Now you're tire tracks and one pair of shoes</l>
+               <l>And I'm split in half, but that'll have to do</l>
+               <l>Oh, that'll have to do</l>
+               <l>My other half was you</l>
+               <l>I hope this pain's just passin' through</l>
+               <l>But I doubt it</l>
+               <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551">Vermont</placeName>, but it's the season of the sticks</l>
+               <l>And I saw your <persName>mom</persName>, she forgot that I existed</l>
+               <l>And it's half my fault, but I just like to play the victim</l>
+               <l>I'll drink alcohol 'til my friends come home for <rs key="Christmas" ref="http://www.wikidata.org/entity/Q19809">Christmas</rs></l>
+               <l>And I'll dream each night of some version of you</l>
+               <l>That I might not have, but I did not lose</l>
+               <l>Now you're tire tracks and one pair of shoes</l>
+               <l>And I'm split in half, but that'll have to do</l>
+               <l>Have to do</l>
+            </lg>
+         </div>
+         <div>
+            <head>"Northern Attitude" (Stick Season)</head>
+            <lg>
+               <l>Breathin' in, breathin' out</l>
+               <l>How <persPronouns cert="high" evidence="conjecture" type="you" xml:space="default">you</persPronouns> been? You settled down?</l>
+               <l>You feelin' right? You feelin' proud?</l>
+               <l>How are your kids? Where are they now?</l>
+               <l>You build a boat, you build a life</l>
+               <l>You lose your friends, you lose your wife</l>
+               <l>You settle in to routine</l>
+               <l>Where are you? What does it mean?</l>
+               <l>If I get too close</l>
+               <l>And I'm not how you hoped</l>
+               <l>Forgive my <title>northern attitude</title></l>
+               <l>Oh, I was raised out in the cold</l>
+               <l>If the sun don't rise</l>
+               <l>'Til the summertime</l>
+               <l>Forgive my northern attitude</l>
+               <l>Oh, I was raised on little light</l>
+               <l>You bought some shit, you search online</l>
+               <l>You're gettin' lost, you're gettin' high</l>
+               <l>All alone, late in life</l>
+               <l>Scared to live, scared to die</l>
+               <l>You build a boat, you build a life</l>
+               <l>You lose your kids, you lose your wife</l>
+               <l>You settle down, you're feelin' lost</l>
+               <l>You're gettin' stoned, then kickin' rocks</l>
+               <l>If I get too close</l>
+               <l>And I'm not how you hoped</l>
+               <l>Forgive my northern attitude</l>
+               <l>Oh, I was raised out in the cold</l>
+               <l>If the sun don't rise</l>
+               <l>'Til the summertime</l>
+               <l>Forgive my northern attitude</l>
+               <l>Oh, I was raised on little light</l>
+               <l>If you get too close</l>
+               <l>And I'm not how you hoped</l>
+               <l>Forgive my northern attitude</l>
+               <l>Oh, I was raised out in the cold</l>
+               <l>If the sun don't shine</l>
+               <l>'Til the summertime</l>
+               <l>Forgive my northern attitude</l>
+               <l>Oh, I was raised on little light </l>
+            </lg>
+         </div>
+         <div>
+            <head>"All My Love" (Stick Season)</head>
+            <lg>
+               <l>Okay</l>
+               <l>How have things been? Well, love, now that you mention it</l>
+               <l>My folks still talk, they speak in these two-words sentences</l>
+               <l>I'm sayin' too much but you know how it gets out here</l>
+               <l>No winter coat could keep out all the cold of your atmosphere We once sang</l>
+               <l>Retrograde, we'd shake the frame of your car</l>
+               <l>Now I know your name, but not who you are</l>
+               <l>It's all okay</l>
+               <l>There ain't a drop of bad blood, it's all my love</l>
+               <l>You got all my love while I'm still out here</l>
+               <l>With the pills and the dogs, if you need me, dear</l>
+               <l>I'm the same as I was, it's all okay</l>
+               <l>There ain't a drop of bad blood, it's all my love</l>
+               <l>You got all my love</l>
+               <l>You got all my love</l>
+               <l>Write me a list of how it is, of how it was, of how it has to be</l>
+               <l>You burrowed in under my skin, what I'd give to have you out for me</l>
+               <l>I still recall how the leather in your car feels</l>
+               <l>And at the end of it all, I just hope that your scars healed</l>
+               <l>We once sang</l>
+               <l>Retrograde, we'd shake the frame of your car</l>
+               <l>Now I know your name, but not who you are</l>
+               <l>It's all okay</l>
+               <l>There ain't a drop of bad blood, it's all my love</l>
+               <l>You got all my love while I'm still out here</l>
+               <l>With the pills and the dogs, if you need me, dear</l>
+               <l>I'm the same as I was, it's all okay</l>
+               <l>There ain't a drop of bad blood, it's all my love</l>
+               <l>You got all my love</l>
+               <l>You got all my love</l>
+               <l>Well, I leaned in for a kiss thirty feet from where your parents slept </l>
+               <l>And I look so confident, babe, I swear, I was scared to death</l>
+               <l>My hands gripped the wheel, I smiled stupid the whole way home</l>
+               <l>And those five words stilln my head, you said, "I'll never you let go"</l>
+               <l>Oh, I sing</l>
+               <l>Retrograde, we'd shake the frame of your car</l>
+               <l>Now I know your name, but not who you are</l>
+               <l>It's all okay</l>
+               <l>There ain't a drop of bad blood, it's all my love</l>
+               <l>You got all my love and it's still out here</l>
+               <l>With the pills and the dogs, wind chill this year</l>
+               <l>Stole the word from my tongue, it's all okay</l>
+               <l>There ain't a drop of bad blood, it's all my love</l>
+               <l>You got all my love</l>
+               <l>You got all my love</l>
+               <l>You got all my love</l>
+               <l>You got all my love</l>
+               <l>You got all my love</l>
+            </lg>
+         </div>
+         <div>
+            <head>"New Perspective" (Stick Season)</head>
+            <lg>
+               <l>Ooh, silence is makin' me nostalgic</l>
+               <l>Two sizes big, your shirt in my apartment</l>
+               <l>Oh, we were kids, but that don't make this less hard</l>
+               <l>If I could fly, I doubt I'd even do it</l>
+               <l>I'd probably get high and crash or somethin' stupid</l>
+               <l>You made Ohio feel just like Central Park</l>
+               <l>Liberal rednecks get drunk on a dirt road</l>
+               <l>Attention deficit kids in their gym clothes</l>
+               <l>Paper bags drift wherever the wind blows</l>
+               <l>And mine's full of receipts</l>
+               <l>Ooh, this town's for the record now</l>
+               <l>The intersection got a Target</l>
+               <l>And they're callin' it "downtown"</l>
+               <l>You and all of your new perspective now</l>
+               <l>Wish I could shut it in a closet</l>
+               <l>And drag you back down</l>
+               <l>Gave me your word, and now I can't pronounce it</l>
+               <l>No thing so sure that I can't learn to doubt it</l>
+               <l>Now the state bird, it sings our song so outta key</l>
+               <l>Liberal rednecks get drunk on a dirt road</l>
+               <l>Attention deficit kids in their gym clothes</l>
+               <l>Paper bags drift wherever the wind blows</l>
+               <l>And mine's full of receipts</l>
+               <l>Ooh, this town's for the record now</l>
+               <l>The intersection got a Target</l>
+               <l>And they're callin' it "downtown"</l>
+               <l>You and all of your new perspective now</l>
+               <l>Wish I could shut it in a closet</l>
+               <l>And drag you back down</l>
+               <l>And drag you back down</l>
+               <l>Liberal rednecks get drunk on a dirt road</l>
+               <l>Attention deficit kids in their gym clothes</l>
+               <l>Paper bags drift wherever the wind blows</l>
+               <l>And mine's full of receipts</l>
+               <l>Ooh, this town's for the record now</l>
+               <l>The intersection got a Target</l>
+               <l>And they're callin' it "downtown"</l>
+               <l>You and all of your new perspective now</l>
+               <l>Wish I could shut it in a closet</l>
+               <l>And drag you back down</l>
+               <l>And drag you back down</l>
+               <l>And drag you back down</l>
+            </lg>
+         </div>
+         <div>
+            <head>"She Calls Me Back" (Stick Season)</head>
+            <lg>
+               <l>Oh, there was Heaven in your eyes</l>
+               <l>I was not baptized</l>
+               <l>Everything's alright when</l>
+               <l>She calls me back, she calls me back</l>
+               <l>Lost for a long time</l>
+               <l>Two parallel lines</l>
+               <l>Everything's alright when</l>
+               <l>She calls me back, she calls me back (yeah)</l>
+               <l>Look at me and don't you lie</l>
+               <l>I could be your sacrifice</l>
+               <l>But don't you hold your head up high</l>
+               <l>For bullshit, I do not have time</l>
+               <l>I can be an old tattoo</l>
+               <l>To remind me when I get bad news</l>
+               <l>That I do not exist to die</l>
+               <l>But live to die while saving you</l>
+               <l>Does it bite at your edges?</l>
+               <l>Do you lie awake restless?</l>
+               <l>Why am I so obsessive?</l>
+               <l>Hangin' onto every sentence</l>
+               <l>This town's the same as you left it</l>
+               <l>Your page was blank but I read it</l>
+               <l>I still dial 822-993-167</l>
+               <l>Oh, there was Heaven in your eyes</l>
+               <l>I was not baptized</l>
+               <l>Everything's alright when</l>
+               <l>She calls me back, she calls me back</l>
+               <l>Lost for a long time</l>
+               <l>Two parallel lines</l>
+               <l>Everything's alright when</l>
+               <l>She calls me back, she calls me back</l>
+               <l>I'm runnin' out of tears to cry</l>
+               <l>They're gone before they hit my cheeks</l>
+               <l>Maybe it's the air out here</l>
+               <l>Or maybe something's changin' me</l>
+               <l>If you think that you could wake me up</l>
+               <l>Then you don't know how well I sleep</l>
+               <l>You love me and I don't know why</l>
+               <l>I only call you once a week</l>
+               <l>Does it bite at your edges?</l>
+               <l>Do you lie awake restless?</l>
+               <l>Why are you so obsessive?</l>
+               <l>Hangin' onto every sentence</l>
+               <l>This town's the same as I left it</l>
+               <l>My page is blank but you read it</l>
+               <l>You still dial 822-993-167</l>
+               <l>Oh, there was Heaven in your eyes</l>
+               <l>I was not baptized</l>
+               <l>Everything's alright when</l>
+               <l>She calls me back, she calls me back</l>
+               <l>Lost for a long time</l>
+               <l>Two parallel lines</l>
+               <l>Everything's alright when</l>
+               <l>She calls me back, she calls me back</l>
+               <l>When she calls me back</l>
+               <l>All the pain I should have saved</l>
+               <l>Oh, I was too afraid of livin' life in your footsteps</l>
+               <l>In your heart or in your head</l>
+               <l>Oh, I was too afraid of livin' life in your footsteps</l>
+               <l>Livin' life in your footsteps</l>
+               <l>Livin' life in your footsteps</l>
+               <l>Still she calls me back</l>
+               <l>Still she calls me</l>
+            </lg>
+         </div>
+      </body>
+   </text>
+</TEI>
