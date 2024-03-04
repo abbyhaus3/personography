@@ -584,10 +584,10 @@
                <l>You got all my love</l>
                <l>You got all my love</l>
                <l>Write me a list of how it is, of how it was, of how it has to be</l>
-               <l>You burrowed in under my skin, what I'd give to have you out for me</l>
+               <l><span cert="high" evaluate="all" type="metaphor" xml:space="default">You burrowed in under my skin, what I'd give to have you out for me</span></l>
                <l>I still recall how the leather in your car feels</l>
                <l>And at the end of it all, I just hope that your scars healed</l>
-               <l>We once sang</l>
+               <l><eventName>We once sang</eventName></l>
                <l>Retrograde, we'd shake the frame of your car</l>
                <l>Now I know your name, but not who you are</l>
                <l>It's all okay</l>
