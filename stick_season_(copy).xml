@@ -469,6 +469,84 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "undefined?rs_annotation_20240304091050735",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-04T14:10:50.735Z",
+	"dcterms:modified": "2024-03-04T14:10:50.735Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "undefined?rs_annotation_20240304091050735#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "undefined?rs_annotation_20240304091050735#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg/l[9]/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q81068910",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -478,14 +556,14 @@
             <head>"Stick Season" (Stick Season)</head>
             <lg>
                <l>As you promised me that I was more than all the miles combined</l>
-               <l>You must have had yourself a change of heart like</l>
+               <l><eventName>You must have had yourself a change of heart like</eventName></l>
                <l>Halfway through the drive</l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Because your voice trailed off</eventName> exactly as you passed my exit sign</l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Kept on drivin' straight</eventName> and left our future to the right</l>
                <l>Now I am stuck between my <ref cert="high" evaluate="all" type="emotion" xml:space="default">anger</ref> and the <ref cert="high" evaluate="all" type="emotion" xml:space="default">blame</ref> that I can't face</l>
                <l>And memories are somethin' even smoking weed does not replace</l>
                <l>And I am <ref cert="high" evaluate="all" type="emotion" xml:space="default">terrified</ref> of weather 'cause I see you when it rains</l>
-               <l>Doc told me to travel, but there's COVID on the planes</l>
+               <l>Doc told me to travel, but there's <rs key="COVID-19 pandemic" ref="http://www.wikidata.org/entity/Q81068910">COVID</rs> on the planes</l>
                <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551" cert="high">Vermont<precision match="@ref" precision="high"/></placeName>, but it's the season of the sticks</l>
                <l>And I saw your <persName>mom</persName>, she forgot that I existed</l>
                <l>And it's half <ref cert="high" evaluate="all" type="emotion" xml:space="default">my fault</ref>, but I just like to play the victim</l>
@@ -495,7 +573,7 @@
                <l>And I'm split in half, but that'll have to do</l>
                <l>So I thought that if I piled something good on all my bad</l>
                <l>That I could cancel out the <ref cert="high" evaluate="all" type="emotion" xml:space="default">darkness</ref> I inherited from dad</l>
-               <l>No, I am no longer <ref cert="high" evaluate="all" type="emotion" xml:space="default">funny</ref>, 'cause I miss the way you laugh You once called me
+               <l>No, I am no longer <ref cert="high" evaluate="all" type="emotion" xml:space="default">funny</ref>, '<eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">cause I miss the way you laugh</eventName> You once called me
                   forever, now you still can't call me back</l>
                <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551">Vermont</placeName>, but it's the season of the sticks</l>
                <l>And I saw your <persName>mom</persName>, she forgot that I existed</l>
