@@ -525,8 +525,8 @@
             <head>"Northern Attitude" (Stick Season)</head>
             <lg>
                <l><eventName>Breathin' in, breathin' out</eventName></l>
-               <l>How <persPronouns cert="high" evidence="conjecture" type="you" xml:space="default">you</persPronouns> been? You settled down?</l>
-               <l>You feelin' right? You feelin' proud?</l>
+               <l>How <persPronouns cert="high" evidence="conjecture" type="you" xml:space="default">you</persPronouns> been? <persPronouns>You</persPronouns> settled down?</l>
+               <l><persPronouns>You</persPronouns> feelin' right? <persPronouns>You</persPronouns> feelin' proud?</l>
                <l>How are your kids? Where are they now?</l>
                <l>You build a boat, you build a life</l>
                <l>You lose your friends, you lose your wife</l>
