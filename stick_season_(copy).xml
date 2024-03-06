@@ -2334,7 +2334,7 @@
                <l>Two parallel lines</l>
                <l>Everything's alright when</l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">She calls me back, she calls me back</eventName> (yeah)</l>
-               <l>Look at me and don't you lie</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="demand" xml:space="default">Look at me and don't you lie</eventName></l>
                <l>I could be your sacrifice<note>religious allusion</note></l>
                <l>But don't you hold your head up high</l>
                <l>For bullshit, I do not have time</l>
