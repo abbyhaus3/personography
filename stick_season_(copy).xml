@@ -1998,7 +1998,7 @@
                <l>Now I know your name, but not who you are</l>
                <l>It's all okay</l>
                <l><span cert="high" evaluate="all" type="love" xml:space="default">There ain't a drop of bad blood, it's all my love</span></l>
-               <l>You got all my love while I'm still out here</l>
+               <l>You got <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="love" xml:space="default">all my love</objectName> while I'm still out here</l>
                <l>With the pills and the dogs, if you need me, dear</l>
                <l>I'm the same as I was, it's all okay</l>
                <l>There ain't a drop of bad blood, it's all my love</l>
