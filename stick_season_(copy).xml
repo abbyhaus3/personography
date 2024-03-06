@@ -1632,11 +1632,11 @@
                <l><eventName/><eventName>Breathin' in, breathin' out</eventName></l>
                <l>How <persPronouns cert="high" evidence="conjecture" type="you" xml:space="default">you</persPronouns> been? <persPronouns>You</persPronouns> settled down?</l>
                <l><persPronouns>You</persPronouns> feelin' right? <persPronouns>You</persPronouns> feelin' proud?</l>
-               <l>How are <persPronouns>your</persPronouns> kids? Where are they now?</l>
-               <l><persPronouns>You</persPronouns> build a boat, you build a life</l>
-               <l>You lose your friends, you lose your wife</l>
-               <l>You settle in to routine</l>
-               <l><span cert="high" evaluate="all" xml:space="default" type="rhetoricalquestion">Where are you? What does it mean?</span></l>
+               <l>How are <persPronouns>your</persPronouns> kids? Where are <persPronouns>they</persPronouns> now?</l>
+               <l><persPronouns>You</persPronouns> build a boat, <persPronouns>you</persPronouns> build a life</l>
+               <l><persPronouns>You</persPronouns> lose your friends, <persPronouns>you</persPronouns> lose your wife</l>
+               <l><persPronouns>You</persPronouns> settle in to routine</l>
+               <l><span cert="high" evaluate="all" xml:space="default" type="rhetoricalquestion">Where are <persPronouns>you</persPronouns>? What does it mean?</span></l>
                <l>If I get too close</l>
                <l>And I'm not how you hoped</l>
                <l>Forgive my <title>northern attitude</title></l>
