@@ -1772,7 +1772,7 @@
                <l>Oh, that'll have to do</l>
                <l>My other half was you</l>
                <l>I <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">hope</objectName> this pain's just passin' through</l>
-               <l>But I doubt it</l>
+               <l><said>But I doubt it</said></l>
                <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551">Vermont</placeName>, but it's the season of the sticks</l>
                <l>And I saw your <persName>mom</persName>, she forgot that I existed</l>
                <l>And it's half my fault, but I just like to play the victim</l>
