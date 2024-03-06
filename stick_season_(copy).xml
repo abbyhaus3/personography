@@ -348,7 +348,6 @@
 	"id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240304092531831",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-04T14:25:31.831Z",
-	"dcterms:modified": "2024-03-04T14:25:31.831Z",
 	"dcterms:creator": {
 		"@id": "https://github.com/abbyhaus3",
 		"@type": [
@@ -375,7 +374,7 @@
 		"oa:hasSelector": {
 			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240304092531831#Selector",
 			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div/lg/l[16]/note"
+			"rdf:value": "TEI/text/body/div/lg/l[16]/note[2]"
 		}
 	},
 	"oa:hasBody": {
@@ -1340,6 +1339,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240306090557904",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-06T14:05:57.904Z",
+	"dcterms:modified": "2024-03-06T14:05:57.904Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240306090557904#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240306090557904#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg/l[16]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteScholarly",
+		"dc:format": "text/plain",
+		"rdf:value": "The person he is singing about left in a hurry"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -1362,7 +1440,7 @@
                <l>And it's half <ref cert="high" evaluate="all" type="emotion" xml:space="default">my fault</ref>, but I just like to play the victim</l>
                <l><eventName>I'll drink alcohol </eventName>'til my friends come home for <rs key="Christmas" ref="http://www.wikidata.org/entity/Q19809">Christmas</rs></l><l><eventName>And I'll dream each night of some version of you</eventName></l>
                <l>That I might not have, but I did not lose</l>
-               <l>Now you're tire tracks and one pair of shoes<note type="annotation">Metaphor</note></l>
+               <l>Now you're tire tracks and one pair of shoes<note type="scholarNote">The person he is singing about left in a hurry</note><note type="annotation">Metaphor</note></l>
                <l><span cert="high" evaluate="all" type="metaphor" xml:space="default">And I'm split in half,</span> but that'll have to do</l>
                <l>So I thought that if I piled something good on all my bad</l>
                <l>That I could cancel out the <ref cert="high" evaluate="all" type="emotion" xml:space="default">darkness</ref> I inherited from dad</l>
