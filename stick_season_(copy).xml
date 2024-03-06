@@ -1741,11 +1741,11 @@
                <l>Forgive my <title>northern attitude</title></l>
                <l>Oh, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">I was raised on little light</eventName></l>
                <l>If you get too close</l>
-               <l>And I'm not how you hoped</l>
-               <l>Forgive my northern attitude</l>
-               <l>Oh, I was raised out in the cold</l>
-               <l>If the sun don't shine</l>
-               <l>'Til the summertime</l>
+               <l>And I'm not how you <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">hoped</objectName></l>
+               <l>Forgive my <title>northern attitude</title></l>
+               <l>Oh, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">I was raised out in the cold</eventName></l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">If the sun don't shine</eventName></l>
+               <l>'Til the <time>summertime</time></l>
                <l>Forgive my northern attitude</l>
                <l>Oh, I was raised on little light </l>
             </lg>
