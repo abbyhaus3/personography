@@ -1730,12 +1730,12 @@
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">Scared to live, scared to die</eventName></l>
                <l><persPronouns>You</persPronouns> build a boat, <persPronouns>you</persPronouns> build a life</l>
                <l><persPronouns>You</persPronouns> lose your kids, <persPronouns>you</persPronouns> lose your wife</l>
-               <l><persPronouns>You</persPronouns> settle down, you're feelin' lost</l>
-               <l>You're gettin' stoned, then kickin' rocks</l>
+               <l><persPronouns>You</persPronouns> settle down, <persPronouns>you're</persPronouns> feelin' lost</l>
+               <l><persPronouns>You're</persPronouns> gettin' stoned, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">then kickin' rocks</eventName></l>
                <l>If I get too close</l>
                <l>And I'm not how you hoped</l>
-               <l>Forgive my northern attitude</l>
-               <l>Oh, I was raised out in the cold</l>
+               <l>Forgive <title>my northern attitude</title></l>
+               <l>Oh, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">I was raised out in the cold</eventName></l>
                <l>If the sun don't rise</l>
                <l>'Til the summertime</l>
                <l>Forgive my northern attitude</l>
