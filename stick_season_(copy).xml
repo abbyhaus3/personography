@@ -1725,12 +1725,12 @@
                <l>Forgive my <title>northern attitude</title></l>
                <l>Oh, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">I was raised on little light</eventName></l>
                <l><persPronouns>You</persPronouns> bought some shit, <persPronouns>you</persPronouns> search online</l>
-               <l>You're gettin' lost, you're gettin' high</l>
+               <l><persPronouns>You're</persPronouns> gettin' lost, <persPronouns>you're</persPronouns> gettin' high</l>
                <l>All alone, late in life</l>
-               <l>Scared to live, scared to die</l>
-               <l>You build a boat, you build a life</l>
-               <l>You lose your kids, you lose your wife</l>
-               <l>You settle down, you're feelin' lost</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">Scared to live, scared to die</eventName></l>
+               <l><persPronouns>You</persPronouns> build a boat, <persPronouns>you</persPronouns> build a life</l>
+               <l><persPronouns>You</persPronouns> lose your kids, <persPronouns>you</persPronouns> lose your wife</l>
+               <l><persPronouns>You</persPronouns> settle down, you're feelin' lost</l>
                <l>You're gettin' stoned, then kickin' rocks</l>
                <l>If I get too close</l>
                <l>And I'm not how you hoped</l>
