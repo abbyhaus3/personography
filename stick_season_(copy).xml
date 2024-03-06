@@ -1720,11 +1720,11 @@
                <l>And I'm not how you hoped</l>
                <l>Forgive my <title>northern attitude</title></l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">Oh, I was raised out in the cold</eventName></l>
-               <l>If the sun don't rise</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">If the sun don't rise</eventName></l>
                <l>'Til the summertime</l>
                <l>Forgive my <title>northern attitude</title></l>
-               <l>Oh, I was raised on little light</l>
-               <l>You bought some shit, you search online</l>
+               <l>Oh, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">I was raised on little light</eventName></l>
+               <l><persPronouns>You</persPronouns> bought some shit, <persPronouns>you</persPronouns> search online</l>
                <l>You're gettin' lost, you're gettin' high</l>
                <l>All alone, late in life</l>
                <l>Scared to live, scared to die</l>
