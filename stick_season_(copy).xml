@@ -2239,10 +2239,10 @@
                <l>With the pills and the dogs, if you need me, dear</l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">I'm the same as I was,</eventName> it's all okay</l>
                <l>There ain't a drop of bad blood, it's all my love</l>
-               <l>You got all my love</l>
-               <l>You got all my love</l>
-               <l>Write me a list of how it is, of how it was, of how it has to be</l>
-               <l><span cert="high" evaluate="all" type="metaphor" xml:space="default">You burrowed in under my skin, what I'd give to have you out for me</span></l>
+               <l><persPronouns>You</persPronouns> got all <persPronouns>my</persPronouns> love</l>
+               <l><persPronouns>You</persPronouns> got all <persPronouns>my</persPronouns> love</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Write me a list of how it is, of how it was, of how it has to be</eventName></l>
+               <l><span cert="high" evaluate="all" type="metaphor" xml:space="default"><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">You burrowed in under my skin</eventName>, what I'd give to have you out for me</span></l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">I still recall how the leather in your car feels</eventName></l>
                <l>And at the end of it all, I just hope that your scars healed</l>
                <l><eventName>We once sang</eventName></l>
