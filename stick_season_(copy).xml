@@ -1431,7 +1431,7 @@
                <l>Halfway through the drive</l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Because your voice trailed off</eventName> exactly as you passed my exit sign</l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Kept on drivin' straight</eventName> and left our future to the right</l>
-               <l>Now I am stuck between my <ref cert="high" evaluate="all" type="emotion" xml:space="default">anger</ref> and the <ref cert="high" evaluate="all" type="emotion" xml:space="default">blame</ref> that I can't face</l>
+               <l>Now I am stuck between my <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">anger</objectName> and the blame that I can't face</l>
                <l>And memories are somethin' even smoking weed does not replace</l>
                <l>And I am <ref cert="high" evaluate="all" type="emotion" xml:space="default">terrified</ref> of weather 'cause I see you when it rains</l>
                <l><eventName>Doc told me to travel</eventName>, but there's <rs key="COVID-19 pandemic" ref="http://www.wikidata.org/entity/Q81068910">COVID</rs> on the planes</l>
