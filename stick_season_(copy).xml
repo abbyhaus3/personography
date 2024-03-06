@@ -1576,6 +1576,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240306092622402",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-06T14:26:22.402Z",
+	"dcterms:modified": "2024-03-06T14:26:22.402Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240306092622402#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240306092622402#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[2]/lg/l[4]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteScholarly",
+		"dc:format": "text/plain",
+		"rdf:value": "The first few lines of this song are rhetorical questions. All of them are directed towards \"you\"."
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -1632,15 +1711,15 @@
                <l><eventName/><eventName>Breathin' in, breathin' out</eventName></l>
                <l>How <persPronouns cert="high" evidence="conjecture" type="you" xml:space="default">you</persPronouns> been? <persPronouns>You</persPronouns> settled down?</l>
                <l><persPronouns>You</persPronouns> feelin' right? <persPronouns>You</persPronouns> feelin' proud?</l>
-               <l>How are <persPronouns>your</persPronouns> kids? Where are <persPronouns>they</persPronouns> now?</l>
+               <l>How are <persPronouns>your</persPronouns> kids? Where are <persPronouns>they</persPronouns> now?<note type="scholarNote">The first few lines of this song are rhetorical questions. All of them are directed towards "you".</note></l>
                <l><persPronouns>You</persPronouns> build a boat, <persPronouns>you</persPronouns> build a life</l>
                <l><persPronouns>You</persPronouns> lose your friends, <persPronouns>you</persPronouns> lose your wife</l>
                <l><persPronouns>You</persPronouns> settle in to routine</l>
                <l><span cert="high" evaluate="all" xml:space="default" type="rhetoricalquestion">Where are <persPronouns>you</persPronouns>? What does it mean?</span></l>
-               <l>If I get too close</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">If I get too close</eventName></l>
                <l>And I'm not how you hoped</l>
                <l>Forgive my <title>northern attitude</title></l>
-               <l>Oh, I was raised out in the cold</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">Oh, I was raised out in the cold</eventName></l>
                <l>If the sun don't rise</l>
                <l>'Til the summertime</l>
                <l>Forgive my <title>northern attitude</title></l>
