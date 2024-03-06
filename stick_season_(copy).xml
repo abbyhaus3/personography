@@ -2244,7 +2244,7 @@
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Write me a list of how it is, of how it was, of how it has to be</eventName></l>
                <l><span cert="high" evaluate="all" type="metaphor" xml:space="default"><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">You burrowed in under my skin</eventName>, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="wish/dream" xml:space="default">what I'd give to have you out for me</eventName></span></l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">I still recall how the leather in your car feels</eventName></l>
-               <l>And at the end of it all, I just hope that your scars healed</l>
+               <l>And at the end of it all, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="wish/hope/dream" xml:space="default">I just hope that your scars healed</eventName></l>
                <l><eventName>We once sang</eventName></l>
                <l><rs key="Retrograde" ref="http://www.wikidata.org/entity/Q17028588">Retrograde</rs>, we'd shake the frame of your car</l>
                <l>Now I know your name, but not who you are</l>
@@ -2333,7 +2333,7 @@
                <l>Lost for a long time</l>
                <l>Two parallel lines</l>
                <l>Everything's alright when</l>
-               <l>She calls me back, she calls me back (yeah)</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">She calls me back, she calls me back</eventName> (yeah)</l>
                <l>Look at me and don't you lie</l>
                <l>I could be your sacrifice<note>religious allusion</note></l>
                <l>But don't you hold your head up high</l>
