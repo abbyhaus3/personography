@@ -2518,9 +2518,9 @@
             <lg>
                <l>Ooh, silence is makin' me <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="theme" xml:space="default">nostalgic</objectName></l>
                <l>Two sizes big, your shirt in my <placeName key="apartment" ref="http://www.wikidata.org/entity/Q188507">apartment</placeName></l>
-               <l>Oh, we were kids, but that don't make this less hard</l>
-               <l>If I could fly, I doubt I'd even do it</l>
-               <l>I'd probably get high and crash or somethin' stupid</l>
+               <l>Oh, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="memory" xml:space="default">we were kids</eventName>, but that don't make this less hard</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="hypothetical" xml:space="default">If I could fly, I doubt I'd even do it</eventName></l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="hypothetical" xml:space="default">I'd probably get high and crash or somethin' stupid</eventName></l>
                <l>You made <placeName key="Ohio" ref="http://www.wikidata.org/entity/Q1397">Ohio</placeName> feel just like <placeName key="Central Park" ref="http://www.wikidata.org/entity/Q160409">Central Park</placeName></l>
                <l>Liberal rednecks<note type="scholarNote">oxymoron</note> <eventName>get drunk on a dirt road</eventName></l>
                <l>Attention deficit kids in their gym clothes</l>
