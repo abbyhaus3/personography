@@ -2497,7 +2497,7 @@
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">And I look so confident, babe, I swear, I was scared to death</eventName></l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">My hands gripped the wheel, I smiled stupid the whole way home</eventName></l>
                <l>And those five words stilln my head, you said,<said> "I'll never you let go"</said></l>
-               <l>Oh, I sing</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Oh, I sing</eventName></l>
                <l><rs key="Retrograde" ref="http://www.wikidata.org/entity/Q17028588">Retrograde</rs>, we'd shake the frame of your car</l>
                <l>Now I know your name, but not who you are</l>
                <l>It's all okay</l>
