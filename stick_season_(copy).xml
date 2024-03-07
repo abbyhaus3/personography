@@ -3568,11 +3568,11 @@
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="hypothetical" xml:space="default">When she calls me back</eventName></l>
                <l>All the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">pain</objectName> I should have saved</l>
                <l>Oh, I was too <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">afraid</objectName> of livin' life in your footsteps</l>
-               <l>In your heart or in your head</l>
-               <l>Oh, I was too afraid of livin' life in your footsteps</l>
+               <l><placeName>In your heart or in your head</placeName></l>
+               <l>Oh, I was too <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">afraid</objectName> of livin' life in your footsteps</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="hypothetical" xml:space="default">Livin' life in your footsteps</eventName></l>
                <l>Livin' life in your footsteps</l>
-               <l>Livin' life in your footsteps</l>
-               <l>Still she calls me back</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Still she calls me back</eventName></l>
                <l>Still she calls me</l>
             </lg>
          </div>
