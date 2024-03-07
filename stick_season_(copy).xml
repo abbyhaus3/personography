@@ -2208,6 +2208,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240306190632417",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-07T00:06:32.417Z",
+	"dcterms:modified": "2024-03-07T00:06:32.417Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:describing",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240306190632417#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240306190632417#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div/lg/l[4]/note"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "cwrc:NoteScholarly",
+		"dc:format": "text/plain",
+		"rdf:value": "More driving references; making the connection to a \"journey\" through the relationship"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -2219,10 +2298,10 @@
                <l>As you promised me that I was more than all the miles combined<note type="scholarNote">References to driving</note></l>
                <l><eventName>You must have had yourself a change of heart like</eventName></l>
                <l>Halfway through the drive</l>
-               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Because your voice trailed off</eventName> exactly as you passed my exit sign</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Because your voice trailed off</eventName> exactly as you passed my exit sign<note type="scholarNote">More driving references; making the connection to a "journey" through the relationship</note></l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Kept on drivin' straight</eventName> and left our future to the right</l>
                <l>Now I am stuck between my <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">anger</objectName> and the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">blame</objectName> that I can't face</l>
-               <l>And memories are somethin' even smoking weed does not replace</l>
+               <l>And <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">memories</objectName> are somethin' even smoking weed does not replace</l>
                <l>And I am <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">terrified</objectName> of weather 'cause I see you when it rains</l>
                <l><eventName>Doc told me to travel</eventName>, but there's <rs key="COVID-19 pandemic" ref="http://www.wikidata.org/entity/Q81068910">COVID</rs> on the planes</l>
                <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551" cert="high">Vermont<precision match="@ref" precision="high"/></placeName>, but it's the season of the sticks</l>
