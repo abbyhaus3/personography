@@ -2326,7 +2326,7 @@
                <l>My other half was you</l>
                <l>I <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">hope</objectName> this pain's just passin' through</l>
                <l><said>But I doubt it</said></l>
-               <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551">Vermont</placeName>, but it's the season of the sticks</l>
+               <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551">Vermont</placeName>, but it's the <title>season of the sticks</title></l>
                <l>And I saw your <persName>mom</persName>, she forgot that I existed</l>
                <l>And it's half my fault, but I just like to play the victim</l>
                <l>I'll drink alcohol 'til my friends come home for <rs key="Christmas" ref="http://www.wikidata.org/entity/Q19809">Christmas</rs></l>
