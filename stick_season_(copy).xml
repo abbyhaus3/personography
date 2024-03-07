@@ -2613,8 +2613,8 @@
                <l><eventName>And drag you back down</eventName></l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action(past)" xml:space="default">Gave me your word, and now I can't pronounce it</eventName></l>
                <l>No thing so sure that I can't learn to doubt it</l>
-               <l>Now the state bird, it sings our song so outta key</l>
-               <l>Liberal rednecks get drunk on a dirt road</l>
+               <l>Now the state bird, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">it sings our song so outta key</eventName></l>
+               <l>Liberal rednecks <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">get drunk on a dirt road</eventName></l>
                <l>Attention deficit kids in their gym clothes</l>
                <l>Paper bags drift wherever the wind blows</l>
                <l>And mine's full of receipts</l>
