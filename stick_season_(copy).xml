@@ -2789,10 +2789,10 @@
                <l>And mine's full of receipts</l>
                <l>Ooh, this town's for the record now</l>
                <l>The intersection got a <rs key="Target Corporation" ref="http://www.wikidata.org/entity/Q1046951">Target</rs></l>
-               <l>And they're callin' it "downtown"</l>
-               <l>You and all of your new perspective now</l>
-               <l>Wish I could shut it in a closet</l>
-               <l>And drag you back down</l>
+               <l>And <persPronouns>they're</persPronouns> callin' it "downtown"</l>
+               <l><persPronouns>You and all of your </persPronouns>new perspective now</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Wish I could shut it in a closet</eventName></l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">And drag you back down</eventName></l>
                <l>And drag you back down</l>
                <l>And drag you back down</l>
             </lg>
@@ -2804,7 +2804,7 @@
                <l>I was not baptized<note type="scholarNote">religious allusion</note></l>
                <l>Everything's alright when</l>
                <l><eventName>She calls me back, she calls me back</eventName></l>
-               <l>Lost for a long time</l>
+               <l>Lost for a <time>long time</time></l>
                <l>Two parallel lines</l>
                <l>Everything's alright when</l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">She calls me back, she calls me back</eventName> (yeah)</l>
