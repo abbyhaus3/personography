@@ -2498,7 +2498,7 @@
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">My hands gripped the wheel, I smiled stupid the whole way home</eventName></l>
                <l>And those five words stilln my head, you said,<said> "I'll never you let go"</said></l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Oh, I sing</eventName></l>
-               <l><rs key="Retrograde" ref="http://www.wikidata.org/entity/Q17028588">Retrograde</rs>, we'd shake the frame of your car</l>
+               <l><rs key="Retrograde" ref="http://www.wikidata.org/entity/Q17028588">Retrograde</rs>, <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">we'd shake the frame of your car</eventName></l>
                <l>Now I know your name, but not who you are</l>
                <l>It's all okay</l>
                <l><span cert="high" evaluate="all" type="love" xml:space="default">There ain't a drop of bad blood, it's all my love</span></l>
