@@ -2301,7 +2301,7 @@
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Because your voice trailed off</eventName> exactly as you passed my exit sign<note type="scholarNote">More driving references; making the connection to a "journey" through the relationship</note></l>
                <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">Kept on drivin' straight</eventName> and left our future to the right</l>
                <l>Now I am stuck between my <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">anger</objectName> and the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">blame</objectName> that I can't face</l>
-               <l>And <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">memories</objectName> are somethin' even smoking weed does not replace</l>
+               <l>And <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">memories</objectName> are somethin' even <eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">smoking weed </eventName>does not replace</l>
                <l>And I am <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">terrified</objectName> of weather 'cause I see you when it rains</l>
                <l><eventName>Doc told me to travel</eventName>, but there's <rs key="COVID-19 pandemic" ref="http://www.wikidata.org/entity/Q81068910">COVID</rs> on the planes</l>
                <l>And I love <placeName key="Vermont" ref="http://www.wikidata.org/entity/Q16551" cert="high">Vermont<precision match="@ref" precision="high"/></placeName>, but it's the season of the sticks</l>
@@ -2311,7 +2311,7 @@
                <l>That I might not have, but I did not lose</l>
                <l>Now you're tire tracks and one pair of shoes<note type="scholarNote">The person he is singing about left in a hurry</note><note type="annotation">Metaphor</note></l>
                <l><span cert="high" evaluate="all" type="metaphor" xml:space="default">And I'm split in half,</span> but that'll have to do</l>
-               <l>So I thought that if I piled something good on all my bad</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="thought" xml:space="default">So I thought that if I piled something good on all my bad</eventName></l>
                <l>That I could cancel out the <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">darkness</objectName> I inherited from dad</l>
                <l>No, I am no longer <objectName cert="high" evidence="internal" full="yes" instant="unknown" type="emotion" xml:space="default">funny</objectName>, '<eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">cause I miss the way you laugh</eventName> </l><l>You once called me
                   forever, now you still can't call me back<note type="scholarNote">He has lingering memories of her and now she won't even talk to him.</note></l>
