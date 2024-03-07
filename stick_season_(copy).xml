@@ -2700,9 +2700,9 @@
                <l>Ooh, this town's for the record now</l>
                <l>The intersection got a <rs key="Target Corporation" ref="http://www.wikidata.org/entity/Q1046951">Target</rs></l>
                <l>And <persPronouns>they're</persPronouns> callin' it "downtown"</l>
-               <l>You and all of your new perspective now</l>
-               <l>Wish I could shut it in a closet</l>
-               <l>And drag you back down</l>
+               <l>You and all of your <title>new perspective</title> now</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="wish" xml:space="default">Wish I could shut it in a closet</eventName></l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">And drag you back down</eventName></l>
                <l>And drag you back down</l>
                <l>Liberal rednecks get drunk on a dirt road</l>
                <l>Attention deficit kids in their gym clothes</l>
