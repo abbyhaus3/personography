@@ -1134,85 +1134,6 @@
 		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
 		"org": "http://www.w3.org/ns/org#"
 	},
-	"id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?place_annotation_20240304225841324",
-	"type": "oa:Annotation",
-	"dcterms:created": "2024-03-05T03:58:41.324Z",
-	"dcterms:modified": "2024-03-05T03:58:41.324Z",
-	"dcterms:creator": {
-		"@id": "https://github.com/abbyhaus3",
-		"@type": [
-			"cwrc:NaturalPerson",
-			"schema:Person"
-		],
-		"cwrc:hasName": "Abby Hausner"
-	},
-	"oa:motivatedBy": "oa:identifying",
-	"oa:hasTarget": {
-		"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?place_annotation_20240304225841324#Target",
-		"@type": "oa:SpecificResource",
-		"oa:hasSource": {
-			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml",
-			"@type": "dctypes:Text",
-			"dc:format": "text/xml"
-		},
-		"oa:renderedVia": {
-			"@id": "https://leaf-writer.leaf-vre.org",
-			"@type": "as:Application",
-			"rdfs:label": "LEAF-Writer",
-			"schema:softwareVersion": "3.4.0"
-		},
-		"oa:hasSelector": {
-			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?place_annotation_20240304225841324#Selector",
-			"@type": "oa:XPathSelector",
-			"rdf:value": "TEI/text/body/div[5]/lg/l/placeName"
-		}
-	},
-	"oa:hasBody": {
-		"@type": "cwrc:RealPlace",
-		"@id": "http://www.wikidata.org/entity/Q4489450",
-		"dc:format": "text/plain"
-	},
-	"as:generator": {
-		"@id": "https://leaf-writer.leaf-vre.org",
-		"@type": "as:Application",
-		"rdfs:label": "LEAF-Writer",
-		"schema:url": "https://leaf-writer.lincsproject.ca/",
-		"schema:softwareVersion": "3.4.0"
-	}
-}]]>
-        </rdf:Description>
-      
-        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
-          <![CDATA[{
-	"@context": {
-		"dcterms:created": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:created"
-		},
-		"dcterms:issued": {
-			"@type": "xsd:dateTime",
-			"@id": "dcterms:issued"
-		},
-		"oa:motivatedBy": {
-			"@type": "oa:Motivation"
-		},
-		"@language": "en",
-		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
-		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
-		"as": "http://www.w3.org/ns/activitystreams#",
-		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
-		"dc": "http://purl.org/dc/elements/1.1/",
-		"dcterms": "http://purl.org/dc/terms/",
-		"foaf": "http://xmlns.com/foaf/0.1/",
-		"geo": "http://www.geonames.org/ontology#",
-		"oa": "http://www.w3.org/ns/oa#",
-		"schema": "http://schema.org/",
-		"xsd": "http://www.w3.org/2001/XMLSchema#",
-		"fabio": "https://purl.org/spar/fabio#",
-		"bf": "http://www.openlinksw.com/schemas/bif#",
-		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
-		"org": "http://www.w3.org/ns/org#"
-	},
 	"id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?note_annotation_20240304225935075",
 	"type": "oa:Annotation",
 	"dcterms:created": "2024-03-05T03:59:35.075Z",
@@ -2998,6 +2919,85 @@
 	}
 }]]>
         </rdf:Description>
+      
+        <rdf:Description rdf:datatype="http://www.w3.org/TR/json-ld/">
+          <![CDATA[{
+	"@context": {
+		"dcterms:created": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:created"
+		},
+		"dcterms:issued": {
+			"@type": "xsd:dateTime",
+			"@id": "dcterms:issued"
+		},
+		"oa:motivatedBy": {
+			"@type": "oa:Motivation"
+		},
+		"@language": "en",
+		"rdf": "http://www.w3.org/1999/02/22-rdf-syntax-ns#",
+		"rdfs": "http://www.w3.org/2000/01/rdf-schema#",
+		"as": "http://www.w3.org/ns/activitystreams#",
+		"cwrc": "http://sparql.cwrc.ca/ontologies/cwrc#",
+		"dc": "http://purl.org/dc/elements/1.1/",
+		"dcterms": "http://purl.org/dc/terms/",
+		"foaf": "http://xmlns.com/foaf/0.1/",
+		"geo": "http://www.geonames.org/ontology#",
+		"oa": "http://www.w3.org/ns/oa#",
+		"schema": "http://schema.org/",
+		"xsd": "http://www.w3.org/2001/XMLSchema#",
+		"fabio": "https://purl.org/spar/fabio#",
+		"bf": "http://www.openlinksw.com/schemas/bif#",
+		"cito": "https://sparontologies.github.io/cito/current/cito.html#",
+		"org": "http://www.w3.org/ns/org#"
+	},
+	"id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?rs_annotation_20240306193752393",
+	"type": "oa:Annotation",
+	"dcterms:created": "2024-03-07T00:37:52.393Z",
+	"dcterms:modified": "2024-03-07T00:37:52.393Z",
+	"dcterms:creator": {
+		"@id": "https://github.com/abbyhaus3",
+		"@type": [
+			"cwrc:NaturalPerson",
+			"schema:Person"
+		],
+		"cwrc:hasName": "Abby Hausner"
+	},
+	"oa:motivatedBy": "oa:identifying",
+	"oa:hasTarget": {
+		"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?rs_annotation_20240306193752393#Target",
+		"@type": "oa:SpecificResource",
+		"oa:hasSource": {
+			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml",
+			"@type": "dctypes:Text",
+			"dc:format": "text/xml"
+		},
+		"oa:renderedVia": {
+			"@id": "https://leaf-writer.leaf-vre.org",
+			"@type": "as:Application",
+			"rdfs:label": "LEAF-Writer",
+			"schema:softwareVersion": "3.4.0"
+		},
+		"oa:hasSelector": {
+			"@id": "https://raw.githubusercontent.com/abbyhaus3/personography/main/stick_season_(copy).xml?rs_annotation_20240306193752393#Selector",
+			"@type": "oa:XPathSelector",
+			"rdf:value": "TEI/text/body/div[5]/lg/l/rs"
+		}
+	},
+	"oa:hasBody": {
+		"@type": "owl:Thing",
+		"@id": "http://www.wikidata.org/entity/Q4489450",
+		"dc:format": "text/plain"
+	},
+	"as:generator": {
+		"@id": "https://leaf-writer.leaf-vre.org",
+		"@type": "as:Application",
+		"rdfs:label": "LEAF-Writer",
+		"schema:url": "https://leaf-writer.lincsproject.ca/",
+		"schema:softwareVersion": "3.4.0"
+	}
+}]]>
+        </rdf:Description>
       </rdf:RDF></xenoData></teiHeader>
       
    
@@ -3195,7 +3195,7 @@
          <div>
             <head>"She Calls Me Back" (Stick Season)</head>
             <lg>
-               <l>Oh, there was <placeName key="heaven" ref="http://www.wikidata.org/entity/Q4489450">Heaven</placeName> in your eyes</l>
+               <l>Oh, there was <rs key="heaven" ref="http://www.wikidata.org/entity/Q4489450">Heaven</rs> in your eyes</l>
                <l>I was not baptized<note type="scholarNote">religious allusion</note></l>
                <l>Everything's alright when</l>
                <l><eventName>She calls me back, she calls me back</eventName></l>
@@ -3225,7 +3225,7 @@
                <l>Lost for a long time</l>
                <l>Two parallel lines</l>
                <l>Everything's alright when</l>
-               <l>She calls me back, she calls me back</l>
+               <l><eventName cert="high" evidence="internal" full="yes" instant="unknown" type="action" xml:space="default">She calls me back, she calls me back</eventName></l>
                <l>I'm runnin' out of tears to cry</l>
                <l>They're gone before they hit my cheeks</l>
                <l>Maybe it's the air out here</l>
